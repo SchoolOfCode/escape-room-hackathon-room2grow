@@ -1,5 +1,5 @@
 # escape-room-hackathon-room2grow
-escape-room-hackathon-room2grow created by GitHub Classroom
+escape-room-hackathon-room2grow created by GitHub Classroom By Abdul, Habib & Cromwell
 
 Escape Room Hackathon 📋
 
